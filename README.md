@@ -4,6 +4,9 @@ Enterprise Network Design using VLANs, Inter-VLAN Routing, DHCP, OSPF, WAN Conne
 ## Overview
 This project demonstrates an enterprise network built in Cisco Packet Tracer.
 
+<img width="1536" height="766" alt="Screenshot 2026-06-20 193822 png" src="https://github.com/user-attachments/assets/3d31fbfb-f090-4273-9e8a-8314e4d9ef97" />
+
+
 ## Technologies Used
 - VLAN
 - Inter-VLAN Routing
